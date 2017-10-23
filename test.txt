@@ -1,2 +1,2 @@
 insert a new file named test.txt to help me learn git
-ting a new branch is quick.
+ting a new branch is quick. and simple`
